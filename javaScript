@@ -1,0 +1,4 @@
+key: "YOUR_RAZORPAY_KEY"
+img: "images/mask.jpg"
+img: "images/dhokra.jpg"
+img: "images/wooden.jpg"
